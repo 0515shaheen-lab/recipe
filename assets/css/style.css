@@ -1,0 +1,9 @@
+*{
+    list-style: none;
+}
+.cardImage{
+    overflow: hidden;
+}
+.cardImage>img{
+    height: 100%;
+}
